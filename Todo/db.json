@@ -1,0 +1,134 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Buy Pen",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "text": "Buy NoteBook",
+      "isCompleted": false
+    },
+    {
+      "text": "Attend Srcum",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "text": "Buy Medicine",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "Complete Coding Assignment",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "text": "Complete DSA Assignment",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "Do 50 Pushups",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "text": "Drink Water",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "text": "Read Book",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "text": "Do Lunch",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "text": "Skillathon lec",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "text": "Call Amol",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "text": "Drink Coffee",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "text": "Watch Youtube",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "text": "Read Newspaper",
+      "isCompleted": false,
+      "id": 15
+    },
+    {
+      "text": "1 Hr Sleep",
+      "isCompleted": false,
+      "id": 16
+    },
+    {
+      "text": "Learn React",
+      "isCompleted": false,
+      "id": 17
+    },
+    {
+      "text": "Meditation 10 min",
+      "isCompleted": false,
+      "id": 18
+    },
+    {
+      "text": "Call Akash Manwar",
+      "isCompleted": false,
+      "id": 19
+    },
+    {
+      "text": "Buy Vitamin D tablet",
+      "isCompleted": false,
+      "id": 20
+    },
+    {
+      "text": "Buy Vitamin C",
+      "isCompleted": false,
+      "id": 21
+    },
+    {
+      "text": "Learn DSA",
+      "isCompleted": false,
+      "id": 22
+    },
+    {
+      "text": "Buy Watch",
+      "isCompleted": false,
+      "id": 23
+    },
+    {
+      "text": "Buy Consert Tickit",
+      "isCompleted": false,
+      "id": 24
+    },
+    {
+      "text": "Watch Pre class",
+      "isCompleted": false,
+      "id": 25
+    },
+    {
+      "text": "watch Dr. starnge",
+      "isCompleted": false,
+      "id": 26
+    }
+  ]
+}
